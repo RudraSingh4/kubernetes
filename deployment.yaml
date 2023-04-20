@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: simple-app
-        image: rudra08/rudra-repo
+        image: rudra08/rudra01
         resources:
           limits:
             memory: "256Mi"
